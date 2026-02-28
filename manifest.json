@@ -1,0 +1,13 @@
+[
+    "gen1/cubone/Attack-Anim.png",
+    "gen1/cubone/Faint-Anim.png",
+    "gen1/cubone/Walk-Anim.png",
+    "gen1/psyduck/Attack-Anim.png",
+    "gen1/psyduck/Faint-Anim.png",
+    "gen1/psyduck/Walk-Anim.png"
+]
+```
+
+Place this file at the **root** of your repo. The raw URL will then be:
+```
+https://raw.githubusercontent.com/duskcus/godot_download_test/main/manifest.json
